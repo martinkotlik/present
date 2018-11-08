@@ -1,0 +1,16 @@
+body {
+  background-color: #669999;
+}
+
+.gameButton {
+  background-color: rgb(128, 128, 128);
+  height: 80px;
+  width: 80px;
+  color: #FDFFFC;
+  border: 3px solid black;
+  border-radius: 40px;
+}
+
+h5 {
+  color: #ffc107;
+}
